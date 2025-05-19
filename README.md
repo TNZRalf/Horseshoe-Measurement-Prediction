@@ -64,7 +64,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Horseshoe-Measurement-Prediction.git
+git clone https://github.com/TNZRalf/Horseshoe-Measurement-Prediction.git
 
 
 
