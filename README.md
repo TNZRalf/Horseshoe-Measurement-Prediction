@@ -18,3 +18,17 @@ Results
 Mean Squared Error (MSE): 0.047
 Accuracy: 100% on test data
 Comparison: Outperformed SVM (78.46% accuracy), demonstrating superior predictive capability.
+
+Installation
+
+Clone the repository:
+git clone https://github.com/yourusername/Horseshoe-Measurement-Prediction.git
+Install MATLAB (R2023a or later recommended).
+Open MATLAB and navigate to the project directory.
+
+Usage
+Open horseshoe_prediction.m in MATLAB.
+Ensure the dataset (horseshoe_data.mat) is in the project folder.
+Run the script to train the model and view results:
+run horseshoe_prediction.m
+Outputs include MSE, accuracy, and a plot of predicted vs. actual curve lengths.
